@@ -1,3 +1,11 @@
-# Line-Following
+# Bert the Robot 
 
-Line Following code run on Raspberry Pi attatched to custom platform with 2 DC motors, motor driver, and voltage converter. 
+The main purpose of this project was to create a robot platform for future testing/projects with openCV and ROS.
+
+The platform was built using a Raspberry Pi 3, webcam, 2 DC Motors, a DROK Motor Controller, a Voltage Converter, a 12V battery pack, and some duck tape.
+
+To test the functionality of the the platform I ran a python script (tele.py) that allowed for control of the robot with a keybaord as well as a line following script (line.py).   
+
+TODO: upload pictures
+TODO: upload wiring diagrams
+TODO: teleop control with ROS
