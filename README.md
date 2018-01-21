@@ -1,4 +1,4 @@
-# Bert the Robot 
+# Bert the Bot 
 
 The main purpose of this project was to create a robot platform for future testing/projects with openCV and ROS.
 
