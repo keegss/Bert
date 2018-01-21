@@ -1,8 +1,6 @@
 import RPi.GPIO as GPIO
 import sys, tty, termios, time
 
-print("do we get in")
-
 mode = GPIO.getmode()
 
 # define GPIO pins
